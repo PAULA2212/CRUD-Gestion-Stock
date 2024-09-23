@@ -41,3 +41,4 @@ if ($check_usuario->rowCount() == 1) {
     El usuario que intenta eliminar no existe.
     </div>';
 }
+$check_usuario = null;
