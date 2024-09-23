@@ -38,13 +38,13 @@
                 </a>
 
                 <div class="navbar-dropdown">
-                    <a class="navbar-item">
+                    <a class="navbar-item" href="./index.php?vista=categoria_nueva">
                         Nuevo
                     </a>
-                    <a class="navbar-item">
+                    <a class="navbar-item" href="./index.php?vista=categoria_lista">
                         Lista
                     </a>
-                    <a class="navbar-item">
+                    <a class="navbar-item" href="./index.php?vista=categoria_buscar">
                         Buscar
                     </a>
                 </div>
