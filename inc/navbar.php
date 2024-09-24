@@ -44,7 +44,7 @@
                     <a class="navbar-item" href="./index.php?vista=categoria_lista">
                         Lista
                     </a>
-                    <a class="navbar-item" href="./index.php?vista=categoria_buscar">
+                    <a class="navbar-item" href="./index.php?vista=buscar_categoria">
                         Buscar
                     </a>
                 </div>
