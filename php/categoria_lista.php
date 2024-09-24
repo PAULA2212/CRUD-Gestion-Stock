@@ -49,7 +49,7 @@ if($total>=1 && $Npaginas<=$pagina){  //hay registros y estamos en una pagina va
                     <td>'.$rows['categoria_nombre'].'</td>
                     <td>'.substr($rows['categoria_ubicacion'],0,25).'</td>
                     <td>
-                        <a href="index.php?vista=productos_categoria&category_id='.$rows['categoria_id'].'" class="button is-link is-rounded is-small">Ver productos</a>
+                        <a href="index.php?vista=producto_categoria&categoria_id='.$rows['categoria_id'].'" class="button is-link is-rounded is-small">Ver productos</a>
                     </td>
                     <td>
                         <a href="index.php?vista=categoria_actualizar&categoria_id_up='.$rows['categoria_id'].'" class="button is-success is-rounded is-small">Actualizar</a>
