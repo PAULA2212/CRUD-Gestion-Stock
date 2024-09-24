@@ -44,7 +44,7 @@
                     <a class="navbar-item" href="./index.php?vista=categoria_lista">
                         Lista
                     </a>
-                    <a class="navbar-item" href="./index.php?vista=categoria_buscar">
+                    <a class="navbar-item" href="./index.php?vista=buscar_categoria">
                         Buscar
                     </a>
                 </div>
@@ -56,16 +56,16 @@
                     </a>
 
                     <div class="navbar-dropdown">
-                        <a class="navbar-item">
+                        <a class="navbar-item" href="./index.php?vista=producto_nuevo">
                             Nuevo
                         </a>
-                        <a class="navbar-item">
+                        <a class="navbar-item" href="./index.php?vista=producto_lista">
                             Lista
                         </a>
-                        <a class="navbar-item">
+                        <a class="navbar-item" href="./index.php?vista=buscar_producto">
                             Buscar
                         </a>
-                        <a class="navbar-item">
+                        <a class="navbar-item" href="./index.php?vista=producto_categoria">
                             Por categoria
                         </a>
                     </div>
